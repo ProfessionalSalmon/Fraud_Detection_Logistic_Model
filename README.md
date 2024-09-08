@@ -1,4 +1,4 @@
-# Credrit Card Fraud Detection predicted by Logistic Regression Model
+# Credit Card Fraud Detection predicted by Logistic Regression Model
 
 Thanks to dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)!
 
